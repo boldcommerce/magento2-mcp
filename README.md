@@ -2,6 +2,10 @@
 
 This is a Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.
 
+<a href="https://glama.ai/mcp/servers/@boldcommerce/magento2-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@boldcommerce/magento2-mcp/badge" alt="Magento 2 Server MCP server" />
+</a>
+
 ## Features
 
 ### Product Features
@@ -134,7 +138,6 @@ Once the MCP server is connected to Claude Desktop, you can ask questions like:
 - "What's the average number of products per order?"
 - "How many units of product XYZ-123 did we sell in Germany last quarter?"
 - "Which products generated the most revenue in the US this month?"
-
 
 ## Development
 
